@@ -21,5 +21,5 @@ This repo contains 2 tests for testing the Cats API.
 - Create a virtual environment (Python 3.12)
 - Install requirements via pip:
 `pip install -r requirements.txt`
-- Run test with: 
-`python run_wap_test.py`
+- Run tests with: 
+`pytest -v`
